@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gui_21_animation</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="code">Code</string>
+    <string name="xml">Xml</string>
+</resources>
